@@ -2,7 +2,7 @@
 
 **Passwise** is a modern, professional password strength checker that evaluates password complexity, entropy, and uniqueness in real-time. It provides detailed feedback, suggestions, and visual indicators to help users create secure and robust passwords.
 
-![Passwise Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFNK2dFoAyFvyrx5_Twt9F3leuop0hv_m3cGDPkGL1nACE6r9g6oZzI_t6GuBtWi8F9A&usqp=CAU) <!-- optional: replace with your image link -->
+![Passwise Screenshot](https://github.com/KIRAN-KUMAR-K3/passwise/blob/main/img/Screenshot%20From%202025-04-18%2022-00-49.png?raw=true) <!-- optional: replace with your image link -->
 
 ---
 
